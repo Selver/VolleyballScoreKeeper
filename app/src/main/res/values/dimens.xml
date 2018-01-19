@@ -1,0 +1,32 @@
+<resources>
+    <dimen name="layoutMarginSmall">8dp</dimen>
+    <dimen name="layoutMargin">16dp</dimen>
+    <dimen name = "layoutMarginBottom">32dp</dimen>
+    <dimen name = "layoutMargin1">24dp</dimen>
+    <dimen name = "layoutMargin1Landscape">32dp</dimen>
+    <dimen name = "textSize1">32sp</dimen>
+    <dimen name="width1">30dp</dimen>
+    <dimen name="dimenLandscape">40dp</dimen>
+    <dimen name="textViewWidth1">110dp</dimen>
+    <dimen name="textViewWidth1Landscape">175dp</dimen>
+    <dimen name = "textSize2">56sp</dimen>
+    <dimen name="dimen1">40dp</dimen>
+    <dimen name="dimen1Landscape">70dp</dimen>
+    <dimen name="textViewHeight">60dp</dimen>
+    <dimen name="textSize3">24sp</dimen>
+    <dimen name="buttonHeight1">33dp</dimen>
+    <dimen name="layoutMargin2">56dp</dimen>
+    <dimen name="layoutMargin4">82dp</dimen>
+    <dimen name="layoutMargin5">12dp</dimen>
+    <dimen name="layoutMargin6">97dp</dimen>
+    <dimen name="layoutMargin7">72dp</dimen>
+    <dimen name="layoutMargin8">100dp</dimen>
+    <dimen name="layoutMargin9">84dp</dimen>
+    <dimen name="layoutMargin10">76dp</dimen>
+    <dimen name="layoutMargin11">104dp</dimen>
+    <dimen name="bottomMarginLandscape">75dp</dimen>
+    <dimen name = "marginLandscape">64dp</dimen>
+    <dimen name="marginLandscape2">90dp</dimen>
+    <dimen name="marginLandscape3">92dp</dimen>
+    <dimen name="marginLandscape4">94dp</dimen>
+</resources>
