@@ -11,4 +11,9 @@
     <string name="set_4">Set 4</string>
     <string name="set_5">Set 5</string>
     <string name="reset">RESET</string>
+    <string name="red_cards">red cards</string>
+    <string name="reset_score">reset score</string>
+    <string name="reset_all">reset all</string>
+    <string name="sets_won">Sets Won</string>
+    <string name="yellow_cards">yellow cards</string>
 </resources>

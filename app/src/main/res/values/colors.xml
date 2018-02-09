@@ -6,8 +6,10 @@
     <color name="lightGrey">#D3D3D3</color>
     <color name="homeColor">#FFCC00</color>
     <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="redCard">#F44336</color>
+    <color name="indigo">#3F51B5</color>
     <color name="black">#000000</color>
+    <color name="tintedBlack">#90000000</color>
     <color name="visitorColor">#3A59FF</color>
-
-
 </resources>
